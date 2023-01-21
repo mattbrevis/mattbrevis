@@ -2,8 +2,7 @@
 
 I am a full stack developer. With work experiences with these technologies below:
 
-HTML5 | CSS3 | .Net C# | Flutter | Javascript
-DB: MySQL, SQL Server, SQLite, Firebase;
+HTML5 | CSS3 | .Net C# | Flutter | Javascript |MySQL| SQL Server;
 
 E-mail: - 📫 mattbrevis@gmail.com
 
