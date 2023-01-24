@@ -11,7 +11,7 @@
     
  </div>  
 </div> 
- ![Flutter logo](imgs/mattbrevisflutter-icon.svg)
+ ![Flutter logo](mattbrevis/imgs/flutter-icon.svg)
  
  HTML5 | CSS3 | .Net C# | Flutter | Javascript |MySQL| SQL Server;
 
