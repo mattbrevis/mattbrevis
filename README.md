@@ -16,11 +16,8 @@
         
         
 </div>
-    ```md
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
-```
-
  
-```md
+
 [![Mattbrevis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattbrevis)](https://github.com/anuraghazra/github-readme-stats)
-```
