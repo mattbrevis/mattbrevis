@@ -15,11 +15,12 @@
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg">       
         
         
-</div>
+
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=mattbrevis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+        
+</div>
