@@ -4,8 +4,8 @@
     <a href="https://github.com/mattbrevis">
  
 <div style="display: inline_block">            
-         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mattbrevis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-           <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrevis&layout=compact&langs_count=7&theme=dracula"/>           
+        [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
+        ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbrevis&hide=contribs,prs)        
 </div>   
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg">  
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original-wordmark.svg">              
