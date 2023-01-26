@@ -13,9 +13,9 @@
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">           
          <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg">       
-        
-        
-
+        <br>
+        <br>
+        <br>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
  
