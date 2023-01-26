@@ -4,7 +4,7 @@
     <a href="https://github.com/mattbrevis">
  
 <div style="display: inline_block">            
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbrevis)](https://github.com/anuraghazra/github-readme-stats)
+[![MattBrevis GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
      
 </div>   
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg">  
