@@ -15,11 +15,12 @@
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg">       
         
         
-        ```md
+</div>
+    ```md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
 ```
-        
-</div>
-    
 
  
+```md
+[![Mattbrevis' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattbrevis)](https://github.com/anuraghazra/github-readme-stats)
+```
