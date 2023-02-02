@@ -1,6 +1,8 @@
 <div align="center">    
-    <h1> - 👋 Hi, I’m @mattbrevis.</h1>
-    <p>I am a full stack developer. With work experiences with these technologies below: </p>
+    <h1> - 👋 Hi, I’m Matheus Brevis.</h1>
+    <p>| Full Stack Developer |<p>
+    <p> I am gratuated in bachelor of computer engineering at IESAM - Estácio.
+        I've been working with development since 2019, with these technologies below: </p>
     <a href="https://github.com/mattbrevis">
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg">  
          <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original-wordmark.svg">              
