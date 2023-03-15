@@ -19,7 +19,7 @@
         <br>
         <br>
 
-        [![MattBrevis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
+
 [![MattBrevis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
    
 </div>
