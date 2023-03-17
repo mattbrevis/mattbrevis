@@ -1,6 +1,6 @@
-# 💫 About Me:
-   👋 Hi, I’m Matheus Brevis.<br>    | Full Stack Developer |<br>    I am gratuated in bachelor of computer engineering at IESAM - Estácio.<br>
-
+# | Full Stack Developer |
+   👋 Hi, I’m Matheus Brevis.
+   I am gratuated in bachelor of computer engineering at IESAM - Estácio.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mattbrevis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattbrevis) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mattbrevis) 
